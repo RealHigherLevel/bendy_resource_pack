@@ -1,0 +1,32 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"wall_bottom": {
+			"textures": "textures/blocks/wall_bottom.png"
+		},
+		"floor_planks": {
+			"textures": "textures/blocks/floor_planks.png"
+		},
+		"wall_top": {
+			"textures": "textures/blocks/wall_top.png"
+		},
+		"ceiling_planks": {
+			"textures": "textures/blocks/ceiling_planks.png"
+		},
+		"black_tinted_block": {
+			"textures": "textures/blocks/black_tinted_block.png"
+		},
+		"radio": {
+			"textures": "textures/blocks/radio.png"
+		},
+		"cassette_player": {
+			"textures": "textures/blocks/cassette_player.png"
+		},
+		"table": {
+			"textures": "textures/blocks/table.png"
+		}
+	}
+}

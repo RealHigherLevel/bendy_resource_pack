@@ -1,0 +1,21 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.bobbing_cassette_player.idle": {
+			"loop": true,
+			"animation_length": 0.5,
+			"loop_delay": "24",
+			"bones": {
+				"bb_main": {
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.2083": [1.0376, 1.0376, 1.0376],
+						"0.25": [1.04, 1.04, 1.04],
+						"0.4583": [1.0024, 1.0024, 1.0024],
+						"0.5": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}

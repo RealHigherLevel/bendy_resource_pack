@@ -1,0 +1,32 @@
+{
+	"wall_middle": {
+		"sound": "wood"
+	},
+	"wall_bottom": {
+		"sound": "wood"
+	},
+	"wall_top": {
+		"sound": "wood"
+	},
+	"floor_planks": {
+		"textures": "floor_planks",
+		"sound": "wood"
+	},
+	"ceiling_planks": {
+		"textures": "ceiling_planks",
+		"sound": "wood"
+	},
+	"black_tinted_block": {
+		"textures": "black_tinted_block",
+		"sound": "stone"
+	},
+	"radio": {
+		"sound": "wood"
+	},
+	"cassette_player": {
+		"sound": "wood"
+	},
+	"table": {
+		"sound": "wood"
+	}
+}

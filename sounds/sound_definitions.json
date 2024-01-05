@@ -1,0 +1,60 @@
+{
+	"format_version": "1.20.30",
+	"sound_definitions": {
+		"audiolog.ch1_wally": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": [
+                {
+                "name": "sounds/audiolog/ch1_wally",
+                "stream": true
+            }
+        ]
+		},
+        "audiolog.ch1_thomas": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": [
+                    {
+                    "name": "sounds/audiolog/ch1_thomas",
+                    "stream": true
+                }
+            ]
+		},
+        "cassette_player.on": {
+			"category": "block",
+            "max_distance": 8,
+            "sounds": ["sounds/sfx/cassette_player_turn_on"]
+		},
+        "cassette_player.off": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": ["sounds/sfx/cassette_player_turn_off"]
+		},
+        "radio.ch1": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": ["sounds/sfx/ch1_radio"]
+		},
+        "radio.ch2": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": ["sounds/sfx/ch2_radio"]
+		},
+        "radio.ch3": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": ["sounds/sfx/ch3_radio"]
+		},
+        "radio.ch4": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": ["sounds/sfx/ch4_radio"]
+		},
+        "radio.ch5": {
+			"category": "block",
+            "max_distance": 8,
+			"sounds": ["sounds/sfx/ch5_radio"]
+		}
+	}
+}

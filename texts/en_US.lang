@@ -1,0 +1,9 @@
+tile.batim:wall_bottom.name=Wall Bottom
+tile.batim:wall_middle.name=Wall Middle
+tile.batim:floor_planks.name=Floor Planks
+tile.batim:wall_top.name=Wall Top
+tile.batim:ceiling_planks.name=Ceiling Planks
+tile.batim:black_tinted_block.name=Black Tinted Block
+tile.batim:radio.name=Radio
+tile.batim:cassette_player.name=Cassette Player
+tile.batim:table.name=Table

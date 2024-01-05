@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "This is the resource pack for Bendy and the Ink Machine, In Minecraft!",
+		"name": "Bendy and the Ink Machine, In Minecraft! Resource Pack",
+		"uuid": "3851722e-f669-4075-9ac0-f3d106b95c68",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 30]
+	},
+	"modules": [
+		{
+			"description": "This is the resource module for Bendy and the Ink Machine, In Minecraft!",
+			"type": "resources",
+			"uuid": "1e34c5d5-2fd9-451b-90d2-e4430f93e912",
+			"version": [1, 0, 0]
+		}
+	]
+}

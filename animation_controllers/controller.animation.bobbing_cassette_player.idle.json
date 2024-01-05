@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.bobbing_cassette_player.idle": {
+			"states": {
+				"initial_state": "default",
+				"default": {
+					"animations": ["animation.bobbing_cassette_player.idle"]
+				}
+			}
+		}
+	}
+}
